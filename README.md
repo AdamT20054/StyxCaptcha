@@ -40,5 +40,5 @@ A bot designed to keep the autonomous bullies out of NYX-Labs!
 
 ## Any problems, create an issue or reach out to me on discord: Adam20054#0001
 
-# NYX-Labs server link: https://discord.gg/zsmjbDYG2p
+### NYX-Labs server link: https://discord.gg/zsmjbDYG2p
 
