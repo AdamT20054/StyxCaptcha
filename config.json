@@ -1,0 +1,11 @@
+{
+    "token": "Insert Token Here",
+    "prefix": "*",
+    "guild": "820347468536872960",
+    "captcha": {
+        "length": "6"
+    },
+    "role": "820349637004361790",
+    "removerole": "868580809349664818",
+    "logchannel": "820351395441803294"
+}

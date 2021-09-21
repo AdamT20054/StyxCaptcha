@@ -1,0 +1,16 @@
+{
+  "name": "StyxCaptcha",
+  "version": "1.0.1",
+  "description": "A pre-built Discord.JS bot to interface with the Manx7 Captcha API.",
+  "main": "NYXcaptcha.js",
+  "scripts": {
+    "start": "npm install . && node ."
+  },
+  "keywords": [],
+  "author": "Adam20054#0001",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "node-fetch": "^2.6.1"
+  }
+}
